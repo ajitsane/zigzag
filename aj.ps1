@@ -1,0 +1,1 @@
+write-host "It is my first powershell file"
